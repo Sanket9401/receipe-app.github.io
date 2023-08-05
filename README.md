@@ -1,1 +1,1 @@
-# receipe-app.github.io
+# receipe-app
